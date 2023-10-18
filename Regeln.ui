@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>482</width>
+    <height>507</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="labelSPielregeln">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>461</width>
+     <height>481</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei Light</family>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Spielanleitung
+
+Das Spiel besteht aus 9 Kartenpaaren.
+
+Ziel des Spiels ist es, möglichst viele dieser
+Kartenpaare zu gewinnen.
+
+Dazu werden alle Kärtchen gemischt und verdeckt (mit
+der Rückseite nach oben) auf einem Tisch verteilt.
+
+Nun darf jeder Mitspieler reihum zwei Karten
+aufdecken. Passen diese nicht zusammen, werden
+die Karten an derselben Stelle belassen, allerdings
+wieder umgedreht.
+
+Werden 2 gleiche Karten aufgedeckt, hat der Spieler
+diese Karten gewonnen und darf sie damit behalten.
+Zusätzlich kommt der Spieler ein weiteres Mal zum
+Zug.
+
+Das Spiel ist beendet, wenn alle Kartenpaare gefunden
+worden sind, und Sieger ist jener Spieler, der die
+meisten Karten sein Eigen nennt.
+</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
